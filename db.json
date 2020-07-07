@@ -5,7 +5,7 @@
       "title": "hello"
     }
   ],
-  "languages": {
+  "languages": [
     {
   "RefLanguageId": 1,
   "LanguagCode": "FR",
@@ -30,5 +30,5 @@
   "CountryCode": "DE",
   "Title": "Allemand"
 }
-  }
+  ]
 }
