@@ -1,25 +1,25 @@
 {
 
   "RefLanguageId": 1,
-  "LanguagCode": "FR"
-  "CountryCode": "FR"
+  "LanguagCode": "FR",
+  "CountryCode": "FR",
   "Title": "Francais"
 },
 {
   "RefLanguageId": 2,
-  "LanguagCode": "EN"
-  "CountryCode": "EN"
+  "LanguagCode": "EN",
+  "CountryCode": "EN",
   "Title": "Anglais"
 },
 {
   "RefLanguageId": 3,
-  "LanguagCode": "NL"
-  "CountryCode": "NL"
+  "LanguagCode": "NL",
+  "CountryCode": "NL",
   "Title": "Néerlandais"
 },
 {
   "RefLanguageId": 4,
-  "LanguagCode": "DE"
-  "CountryCode": "DE"
+  "LanguagCode": "DE",
+  "CountryCode": "DE",
   "Title": "Allemand"
 }
