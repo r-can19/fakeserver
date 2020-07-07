@@ -9,26 +9,22 @@
     {
   "RefLanguageId": 1,
   "LanguageCode": "FR",
-  "CountryCode": "FR",
-  "Title": "Francais"
+  "Description": "Je parle Français"
 },
 {
   "RefLanguageId": 2,
   "LanguageCode": "EN",
-  "CountryCode": "EN",
-  "Title": "Anglais"
+  "Description": "I speak English"
 },
 {
   "RefLanguageId": 3,
   "LanguageCode": "NL",
-  "CountryCode": "NL",
-  "Title": "Néerlandais"
+  "Description": "Ik spreek Nederlands"
 },
 {
   "RefLanguageId": 4,
   "LanguageCode": "DE",
-  "CountryCode": "DE",
-  "Title": "Allemand"
+  "Description": "Ich spreche Deutsch"
 }
   ]
 }
