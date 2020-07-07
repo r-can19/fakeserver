@@ -8,25 +8,25 @@
   "language": [
     {
   "RefLanguageId": 1,
-  "LanguagCode": "FR",
+  "LanguageCode": "FR",
   "CountryCode": "FR",
   "Title": "Francais"
 },
 {
   "RefLanguageId": 2,
-  "LanguagCode": "EN",
+  "LanguageCode": "EN",
   "CountryCode": "EN",
   "Title": "Anglais"
 },
 {
   "RefLanguageId": 3,
-  "LanguagCode": "NL",
+  "LanguageCode": "NL",
   "CountryCode": "NL",
   "Title": "Néerlandais"
 },
 {
   "RefLanguageId": 4,
-  "LanguagCode": "DE",
+  "LanguageCode": "DE",
   "CountryCode": "DE",
   "Title": "Allemand"
 }
